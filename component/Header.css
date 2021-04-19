@@ -1,0 +1,15 @@
+.header{
+    padding:10px;
+    background: teal;
+    color:#fff
+}
+input[type=text]{
+    outline: none;
+    padding: 3px;
+    width:250px;
+}
+img{
+    width:200px;
+    height:150px;
+    float: left;
+}
